@@ -29,9 +29,3 @@ To run the website locally, follow these steps:
 
 ```bash
 git clone https://github.com/BottomsNode/Simple-College-Website-HTML-CSS
-
-2. Navigate to the project directory:
-
-```bash
-cd Simple-College-Website-HTML-CSS
-
